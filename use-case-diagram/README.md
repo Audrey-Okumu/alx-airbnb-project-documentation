@@ -70,10 +70,10 @@ The backend for the Airbnb Clone must enable the following **core features**, al
 
 ## 📊 Use Case Diagram
 
-The **Use Case Diagram** has been designed using **Draw.io** to represent interactions between actors (**Guests, Hosts, Admins, Payment Gateway, Notification Service**) and the system.
+The **Use Case Diagram** has been designed  to represent interactions between actors (**Guests, Hosts, Admins**) and the system.
 
 ### 🔗 Diagram Location
-The diagram is stored in the repository under:
+The diagram is as shown:
 
 ![Usecase Diagram](alx_airbnb_usecase.drawio.png)
 
