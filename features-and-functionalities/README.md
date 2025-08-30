@@ -58,5 +58,5 @@ This document lists all the features and functionalities supported by the backen
 
 Below is the backend features diagram:
 
-![Backend Features](./backend-features.drawio.png)
+![Backend Features](./backend-features.drawio(1).png)
 
