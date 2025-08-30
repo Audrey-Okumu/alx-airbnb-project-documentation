@@ -75,6 +75,6 @@ The **Use Case Diagram** has been designed using **Draw.io** to represent intera
 ### 🔗 Diagram Location
 The diagram is stored in the repository under:
 
-![Alt Text](alx_airbnb_usecase.drawio.png)
+![Usecase Diagram](alx_airbnb_usecase.drawio.png)
 
 
