@@ -10,4 +10,4 @@ The flowchart maps out the backend logic and data flow from when a user initiate
 - To provide a reference for developers working on **User Management** features.
 
 ## 🗂 Directory Structure
-![User Registration Flowchart](flowcharts/data-flow-diagram.png)
+![User Registration Flowchart](data-flow-diagram.png)
