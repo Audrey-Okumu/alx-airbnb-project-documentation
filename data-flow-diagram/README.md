@@ -20,7 +20,8 @@ This backend is built with a focus on:
 ---
 
 ## 🗂 Directory Structure
-![Data Flow Diagram][data-flow.png]
+![Data Flow Diagram](data-flow.png)
 
-## 🗂 Directory Structure
+
+
 
